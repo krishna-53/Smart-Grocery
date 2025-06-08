@@ -25,10 +25,10 @@ This is an AI-powered assistant that responds to natural language queries about 
 
 ## 📁 Project Structure
 GroceryStore/
-├── Langchain.py # Core logic: LangChain prompt and GPT-4 integration
-├── main.py # Application entry point; loads data and handles queries
-├── inventory.json # (Optional) Inventory data source
-├── .env # Stores your OpenAI API key securely (not committed)
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation (you’re reading it)
-└── .venv/ # (Optional) Python virtual environment
+├── Langchain.py # Core logic: LangChain prompt and GPT-4 integration                                                                                                         
+├── main.py # Application entry point; loads data and handles queries                                                                                                         
+├── inventory.json # (Optional) Inventory data source                                                                                                                         
+├── .env # Stores your OpenAI API key securely (not committed)                                                                                                                
+├── requirements.txt # Python dependencies                                                                                                                                    
+├── README.md # Project documentation (you’re reading it)                                                                                                                     
+└── .venv/ # (Optional) Python virtual environment                                                                                                                            
